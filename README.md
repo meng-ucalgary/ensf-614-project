@@ -2,18 +2,18 @@
 
 A project on Movie Theater Ticket Reservation App. Please refer to the [project description document](docs/Project_Description.pdf) for more information.
 
+## Project Video
+
+The project demonstration video is accessible [here](https://youtu.be/ou1qK7hEPi4).
+
 ## Project Structure
 
 ![dir tree](images/structure.png)
 
 - [`config`](config) - contains the config files containing important settings for the project to work
-
 - [`docs`](docs) - various documents, including system diagrams, of the project
-
   - [`docs/javadoc.zip`](docs/javadoc.zip) - javadoc as zip archive
-
 - [`lib`](lib) - contains the JARs used by the project
-
 - [`src`](src) - contains all the source code as `.java` files
 
 ## How to run
